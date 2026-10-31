@@ -6,8 +6,8 @@
   "start_url": "/pensa-demo/",
   "scope": "/pensa-demo/",
   "display": "standalone",
-  "background_color": "#F5F7FA",
-  "theme_color": "#F5F7FA",
+  "background_color": "#FFFFFF",
+  "theme_color": "#C62A22",
   "icons": [
     {
       "src": "/pensa-demo/icon-512.png",
